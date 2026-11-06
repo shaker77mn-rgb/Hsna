@@ -1,0 +1,6 @@
+{
+  "name": "Word معالج النصوص",
+  "description": "تطبيق معالج نصوص مكتبي متقدم لكتابة وتنسيق المستندات والتقارير مع لوحة مفاتيح كمبيوتر وخطوط عربية - تطوير المهندس شاكر السفياني 770472829",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
